@@ -1,4 +1,4 @@
-print("Welcome to the Useless Calculator: A calculator that does not function. Enjoy!")
+print("Welcome to the Useless Calculator: A calculator that does not function as you want it to. Enjoy!")
 name = input("Enter your name: ")
 num1 = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
